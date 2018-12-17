@@ -1,6 +1,6 @@
 # React Counters
 
-Simple React counters application that executes many React basics such as lifting state up, passing data via pros, handling events, using a stateless component, and more. 
+Simple React counters application that executes many React basics such as lifting state up, passing data via props, handling events, using a stateless component, and more. 
 
 ## Features
 
