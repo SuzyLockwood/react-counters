@@ -23,7 +23,9 @@ Simple React counters application that executes many React basics such as liftin
 ## Screenshots:
 
 * Default Starting Page
+
 ![react counters app starting page](https://user-images.githubusercontent.com/40550878/50067261-077dd800-0175-11e9-86ff-649a9cea2d11.PNG)
 
 * After Adding Counters
+
 ![react counters app with counters](https://user-images.githubusercontent.com/40550878/50067258-064cab00-0175-11e9-990d-75d3940f15e2.PNG)
